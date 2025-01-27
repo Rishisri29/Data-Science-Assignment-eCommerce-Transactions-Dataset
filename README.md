@@ -7,7 +7,7 @@ Customers.csv: Contains customer information (ID, name, region, signup date).
 Products.csv: Contains product information (ID, name, category, price).
 Transactions.csv: Contains transaction data (ID, customer ID, product ID, transaction details).
 
-# # Tasks & Deliverables
+## Tasks & Deliverables
 # Task 1: EDA
 Objective: Perform EDA to uncover business insights.
 Deliverables: Jupyter Notebook with EDA code and a PDF report with business insights.
